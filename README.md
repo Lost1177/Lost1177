@@ -22,44 +22,5 @@
 </p>
 
 ---
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,python,js,ts,html,css,bootstrap,php,laravel,nodejs,react,vue,mysql,postgres,sqlserver,git,github,vscode,docker,postman&perline=10" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NRIOSSAN&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRIOSSAN&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NRIOSSAN&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NRIOSSAN&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-## 🧠 About Me
-
-```javascript
-const nicolas = {
-  username: "NRIOSSAN",
-  role: "Software Developer",
-  languages: ["JavaScript", "TypeScript", "Python", "SQL", "PHP"],
-  frameworks: ["Angular", "React", "Vue", "Laravel"],
-  interests: ["Web Development", "APIs", "Databases", "Data Analysis"],
-  motto: "Build, improve, deploy."
+prove, deploy."
 };
